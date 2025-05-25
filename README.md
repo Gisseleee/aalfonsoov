@@ -8,7 +8,7 @@
 
 ## 🚀 Tecnologías que uso
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+s
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=000)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=fff)
